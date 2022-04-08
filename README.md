@@ -1,4 +1,4 @@
-# aracon
+# Aracon
 A Minecraft overhaul and content mod. Currently under heavy development. This page will become more detailed once the mod contains some actual content.
 
 
